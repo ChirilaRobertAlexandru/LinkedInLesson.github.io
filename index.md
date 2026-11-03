@@ -1,1 +1,5 @@
-<h1>How to make a git repository</h1>
+---
+layout: default
+---
+
+# How to make a git repository
